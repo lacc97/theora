@@ -1,0 +1,10 @@
+.{
+    .name = "theora",
+    .version = "1.2.0-alpha1+git",
+    .dependencies = .{
+        .ogg = .{
+            .url = "https://github.com/lacc97/ogg/archive/5fc293a092d31afe65d756a470974aff3d23c01f.tar.gz",
+            .hash = "1220ab5e1dc843f13794de71eff73fbdb656f5ec150a92daafadc4bcdebb4d03c2f2",
+        },
+    },
+}
